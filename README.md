@@ -1,2 +1,2 @@
-# genai-lab-assignments
+# Genai-lab-assignments
 Generative AI lab assignments (Google Colab)
